@@ -1,6 +1,7 @@
 # NatureVisualizerX
 
 NatureVisualizerX is a flower visualizer project that creates a beautiful, animated display of flowers and grass using HTML, CSS, and JavaScript.
+Attempting to get familiar with these frameworks
 
 ## Table of Contents
 
